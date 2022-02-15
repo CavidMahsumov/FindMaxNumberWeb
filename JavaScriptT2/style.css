@@ -1,0 +1,38 @@
+#mytable{
+
+    border: 5px solid springgreen;
+
+    border-radius: 15px;
+
+}
+
+
+
+
+td{
+
+    padding:15px;
+
+    border: 5px solid red;
+
+    cursor: pointer;
+    color: white;
+
+
+
+}
+
+.td2{
+    color: black;
+}
+
+
+
+
+#mytitle{
+
+    font-size: 6em;
+
+    color: blue;
+
+}
